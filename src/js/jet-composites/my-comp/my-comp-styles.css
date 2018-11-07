@@ -1,0 +1,8 @@
+my-comp:not(.oj-complete){
+  visibility: hidden;
+}
+
+my-comp{
+	min-height: 50px;
+	width: 50px;
+}
